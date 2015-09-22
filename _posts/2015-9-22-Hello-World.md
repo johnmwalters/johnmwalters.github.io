@@ -5,4 +5,4 @@ title: You're up and running!
 
 Hello World!
 
-First blog post. This is great
+First blog post. This is great!
