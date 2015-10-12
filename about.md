@@ -1,15 +1,25 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: default
+title: About Long Haul
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+<div class="post">
+	<h1 class="pageTitle">About John Walters</h1>
+	<img src="{{ '/assets/img/emu_thumb.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">John Walters intro</p>
+	<p>Continue Text here</p>
+	<h2>Next Header</h2>
+	<ul>
+		<li></li>
+  		<li></li>
+  		<li></li>
+  		<li></li>
+  		<li></li>
+  		<li></li>
+      <li></li>
+  		<li></li>
+      <li></li>
+  		<li></li>
+  		<li></li>
+  	</ul>
+</div>
