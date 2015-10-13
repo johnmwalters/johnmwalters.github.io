@@ -14,6 +14,7 @@ title: About John Walters
 	<p>Data Scientist Extraordinaire</p>
 	<h2>Experience</h2>
 	<ul>
+		<li>Metis Data Science - Student</li>
 		<li>Deloitte - Consultant Risk Analytics</li>
 		<li>Booz Allen Hamilton - Consultant Data Analysis</li>
   	</ul>
