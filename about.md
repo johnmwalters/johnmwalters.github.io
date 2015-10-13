@@ -1,16 +1,16 @@
 ---
 layout: default
-title: About Long Haul
+title: About John Walters
 ---
 
 <div class="post">
 	<h1 class="pageTitle">About John Walters</h1>
-	<img src="{{ '/assets/img/touring.jpg' | prepend: site.baseurl }}" alt=""> 
-	<p class="intro">John Walters intro</p>
-	<p>Continue Text here</p>
-	<h2>Next Header</h2>
+	<img src="{{ '/assets/img/jmw.jpg' | prepend: site.baseurl }}" alt=""> 
+	<p class="intro">John Walters</p>
+	<p>Data Scientist Extraordinaire</p>
+	<h2>Experience</h2>
 	<ul>
-		<li></li>
-  		<li></li>
+		<li>Deloitte - Consultant Risk Analytics</li>
+		<li>Booz Allen Hamilton - Consultant Data Analysis</li>
   	</ul>
 </div>
