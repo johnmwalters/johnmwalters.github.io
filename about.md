@@ -5,7 +5,11 @@ title: About John Walters
 
 <div class="post">
 	<h1 class="pageTitle">About John Walters</h1>
-	<img src="{{ '/assets/img/jmw.jpg' | prepend: site.baseurl }} " width="50%" align="middle" alt=""> 
+</div>
+<div class="aboutImg">
+	<img src="{{ '/assets/img/jmw.jpg' | prepend: site.baseurl }} " width="50%" alt=""> 
+</div>
+<div class="post">
 	<p class="intro">John Walters</p>
 	<p>Data Scientist Extraordinaire</p>
 	<h2>Experience</h2>
