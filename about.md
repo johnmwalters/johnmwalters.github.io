@@ -9,7 +9,7 @@ title: About John Walters
 <div class="aboutImg">
 	<img src="{{ '/assets/img/jmw.jpg' | prepend: site.baseurl }} " width="50%" alt=""> 
 </div>
-<div class="post">
+<div class="post" align="center">
 	<p class="intro">John Walters</p>
 	<p>Data Scientist Extraordinaire</p>
 	<h2>Experience</h2>
