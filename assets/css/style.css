@@ -709,6 +709,10 @@ dd {
 	font-family: "Open Sans", Helvetica, Arial, sans-serif;
 	font-weight: 300
 }
+.post .meta script {
+	text-align: center;
+	color: black;
+}
 .post figure {
 	margin: 3rem 0
 }
